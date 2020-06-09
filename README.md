@@ -5,6 +5,10 @@
 npm install
 ```
 
+### 运行mock数据
+```
+npm run mock 启动本地模拟数据 
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve-index: 本地运行 pc-project 
