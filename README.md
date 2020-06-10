@@ -7,6 +7,7 @@ npm install
 
 ### 运行mock数据
 ```
+如果没有json-server的话需要全局安装下(npm install -g json-server),已经安装过了就可以运行下面的命令得到数据
 npm run mock 启动本地模拟数据 
 ```
 ### Compiles and hot-reloads for development
