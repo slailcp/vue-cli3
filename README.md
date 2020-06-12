@@ -12,8 +12,8 @@ npm run mock 启动本地模拟数据
 ```
 ### Compiles and hot-reloads for development
 ```
-npm run serve-index: 本地运行 pc-project 
-npm run serve-h5: 本地运行 h5-project 
+npm run serve:index: 本地运行 pc-project 
+npm run serve:h5: 本地运行 h5-project 
 ```
 
 ### Compiles and minifies for production

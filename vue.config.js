@@ -6,7 +6,7 @@ function resolve(dir) {
 }
 
 // 默认 index debug
-const ServerSign = process.argv[4] || 'index'; // 运行 时候的标记 pc 还是h5 // npm run serve-index    ServerSign = index;
+const ServerSign = process.argv[3].replace('--', '') || 'index'; // 运行 时候的标记 pc 还是h5 // npm run serve-index    ServerSign = index;
 const BuildSign = process.argv[3] || 'index'; // 打包时候的标记 pc 还是h5 // npm run Release-index    BuildSign = index;
 const BuildNODE_ENV = process.argv[4] || 'debug'; // process.argv[4]; // 打包时候的环境变量标记 Debug/Publictest/Release // npm run Release-index   BuildNODE_ENV = Release;
 
@@ -93,5 +93,6 @@ module.exports = {
     //     .end()
     // },
     pages: setPage(),
-    filenameHashing: true
+    filenameHashing: true,
+    productionSourceMap: false, // 生产环境是否生成 sourceMap 文件
 };
