@@ -26,7 +26,9 @@
                     <!-- {{d.year}}-
                     {{d.month}}- -->
                     {{d.day}}
-                    <i class="tag" v-if="d.tag">{{d.tag === 's' ? '入' : '离'}}</i>
+                    <i class="tag" v-if="d.tag && d.tag === 's'">入</i>
+                    <i class="tag" v-if="d.tag && d.tag === 'e'">离</i>
+                    <i class="tag" v-if="d.tag && d.tag === '今'">今</i>
                 </span>
               </div>
             </div>
@@ -218,6 +220,7 @@ export default class FjDatepickerDoubleComponent extends Vue {
   &.current{color:red} /* 已经选中的日期 */
   &.prev{color:#ccc} /* 上一个月剩余到本月的日期 */
   &.next{color:#ccc} /* 下一个月剩余到本月的日期 */
+  &.today{color:#00a0e9}
   &.clicked{background: blue;border-radius: 50%;color:#fff}
   
 }

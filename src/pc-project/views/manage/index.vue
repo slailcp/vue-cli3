@@ -99,7 +99,7 @@ export default class IndexPage extends Vue {
   private searchcode2 = '';
 
   private activeMonth1 = '2020-08-17';
-  private activeMonth2 = '2020/08/17~2020/08/19';
+  private activeMonth2 = '2020/08/19~2020/08/22';
   private startEnabled = '2020/07/17';
   private endEnabled = '2020-09-22';
 

@@ -11,20 +11,24 @@ class Datepicker {
     setClassname(now: any) {
         let classname = '';
         let tag = '';
-        if(moment(now).diff(moment(this.start), 'days')<0 || moment(this.end).diff(moment(now), 'days')<0){
+        if(moment(now).diff(moment(this.start))<0 || moment(this.end).diff(moment(now))<0){
             classname = 'disabled';
         }else{
             classname += 'enabled';
         }
+        
+        if(moment(now).diff(moment(moment().format('YYYY-MM-DD')))===0){
+            classname += ' today'; 
+            tag = '今'; 
+        }
 
         this.activeMonth.forEach((item, index) => {
-            if(item && moment(now).diff(moment(item), 'days')===0){
+            if(item && moment(now).diff(moment(item))===0){
                 classname += ' current';
                 if(this.activeMonth.length === 2){
                     tag = index === 0 ? 's' : 'e';
                 }
             }
-            
         })
         
         return {classname, tag};
