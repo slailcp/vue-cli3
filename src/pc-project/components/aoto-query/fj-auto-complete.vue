@@ -79,7 +79,6 @@ export default class FjAutoCompleteComponent extends Vue {
         if(this.requestEvent){
             this.requestEvent(event.target.value, (res: any) => {
                 this.AllData = res;
-                console.log(this.AllData );
                 if(this.AllData.length === 0){
                     this.aotoemptyisShow = true;
                 }

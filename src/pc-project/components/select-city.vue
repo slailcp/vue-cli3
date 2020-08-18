@@ -108,7 +108,6 @@ export default class SelectCityComponent extends Vue {
         data: {},
         notLoading: true
     }).then((res: any) => {
-      console.log(res);
       this.allCity = res;
       const allCityList: any = {}; // 所有城市
       this.allCity.forEach((item, index) => {
