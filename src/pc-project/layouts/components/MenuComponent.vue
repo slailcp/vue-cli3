@@ -35,6 +35,7 @@ export default class MenuComponent extends Vue {
   private isRouter = true;
 
   private menu: MenuItem[] = [
+    { name: 'index', link: '/manage/index' },
     { name: 'emit', link: '/manage/Emitpage' },
     { name: 'model', link: '/manage/Modelpage' },
     { name: 'props', link: '/manage/PropsPage' },

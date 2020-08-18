@@ -52,7 +52,7 @@ export default class LoginStore extends VuexModule {
       const { router, loginParams } = params;
       let loginInfo: User | null = null;
       const response: any = await service.request({
-        url: 'http://localhost:3000/user',
+        url: '/user',
         data: { name: loginParams.userName, password: loginParams.pass },
       });
       if (!response.length) {

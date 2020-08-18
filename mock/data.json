@@ -37,14 +37,2833 @@
       "password": "123456"
     }
   ],
-  "comments": [
+  "Cities": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "Name": "阿坝",
+      "Abbreviation": "AB",
+      "Pinyin": "ABA",
+      "IsHot": false,
+      "Level": 1
+    }, 
+    {
+      "Name": "阿克苏",
+      "Abbreviation": "AKS",
+      "Pinyin": "AKESU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "阿拉尔",
+      "Abbreviation": "ALE",
+      "Pinyin": "ALAER",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "阿拉善盟",
+      "Abbreviation": "ALSM",
+      "Pinyin": "ALASHANMENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "阿勒泰",
+      "Abbreviation": "ALT",
+      "Pinyin": "ALETAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "阿里",
+      "Abbreviation": "AL",
+      "Pinyin": "ALI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "安康",
+      "Abbreviation": "AK",
+      "Pinyin": "ANKANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "安庆",
+      "Abbreviation": "AQ",
+      "Pinyin": "ANQING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "鞍山",
+      "Abbreviation": "AS",
+      "Pinyin": "ANSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "安顺",
+      "Abbreviation": "AS",
+      "Pinyin": "ANSHUN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "安阳",
+      "Abbreviation": "AY",
+      "Pinyin": "ANYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "澳门",
+      "Abbreviation": "AM",
+      "Pinyin": "AOMEN",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "白城",
+      "Abbreviation": "BC",
+      "Pinyin": "BAICHENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "百色",
+      "Abbreviation": "BS",
+      "Pinyin": "BAISE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "白沙",
+      "Abbreviation": "BS",
+      "Pinyin": "BAISHA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "白山",
+      "Abbreviation": "BS",
+      "Pinyin": "BAISHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "白银",
+      "Abbreviation": "BY",
+      "Pinyin": "BAIYIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "保定",
+      "Abbreviation": "BD",
+      "Pinyin": "BAODING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宝鸡",
+      "Abbreviation": "BJ",
+      "Pinyin": "BAOJI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "保山",
+      "Abbreviation": "BS",
+      "Pinyin": "BAOSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "保亭",
+      "Abbreviation": "BT",
+      "Pinyin": "BAOTING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "包头",
+      "Abbreviation": "BT",
+      "Pinyin": "BAOTOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "巴彦淖尔",
+      "Abbreviation": "BYNE",
+      "Pinyin": "BAYANNAOER",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "巴音郭楞",
+      "Abbreviation": "BYGL",
+      "Pinyin": "BAYINGUOLENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "巴中",
+      "Abbreviation": "BZ",
+      "Pinyin": "BAZHONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "北海",
+      "Abbreviation": "BH",
+      "Pinyin": "BEIHAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "北京",
+      "Abbreviation": "BJ",
+      "Pinyin": "BEIJING",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "北屯",
+      "Abbreviation": "BT",
+      "Pinyin": "BEITUN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "蚌埠",
+      "Abbreviation": "BB",
+      "Pinyin": "BENGBU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "本溪",
+      "Abbreviation": "BX",
+      "Pinyin": "BENXI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "毕节",
+      "Abbreviation": "BJ",
+      "Pinyin": "BIJIE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "滨州",
+      "Abbreviation": "BZ",
+      "Pinyin": "BINZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "博尔塔拉",
+      "Abbreviation": "BETL",
+      "Pinyin": "BOERTALA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "亳州",
+      "Abbreviation": "BZ",
+      "Pinyin": "BOZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "沧州",
+      "Abbreviation": "CZ",
+      "Pinyin": "CANGZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "长春",
+      "Abbreviation": "CC",
+      "Pinyin": "CHANGCHUN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "常德",
+      "Abbreviation": "CD",
+      "Pinyin": "CHANGDE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "昌都",
+      "Abbreviation": "CD",
+      "Pinyin": "CHANGDU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "昌吉",
+      "Abbreviation": "CJ",
+      "Pinyin": "CHANGJI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "昌江",
+      "Abbreviation": "CJ",
+      "Pinyin": "CHANGJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "长沙",
+      "Abbreviation": "CS",
+      "Pinyin": "CHANGSHA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "长治",
+      "Abbreviation": "CZ",
+      "Pinyin": "CHANGZHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "常州",
+      "Abbreviation": "CZ",
+      "Pinyin": "CHANGZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "巢湖",
+      "Abbreviation": "CH",
+      "Pinyin": "CHAOHU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "朝阳",
+      "Abbreviation": "CY",
+      "Pinyin": "CHAOYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "潮州",
+      "Abbreviation": "CZ",
+      "Pinyin": "CHAOZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "承德",
+      "Abbreviation": "CD",
+      "Pinyin": "CHENGDE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "成都",
+      "Abbreviation": "CD",
+      "Pinyin": "CHENGDU",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "澄迈",
+      "Abbreviation": "CM",
+      "Pinyin": "CHENGMAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "郴州",
+      "Abbreviation": "CZ",
+      "Pinyin": "CHENZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "赤峰",
+      "Abbreviation": "CF",
+      "Pinyin": "CHIFENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "池州",
+      "Abbreviation": "CZ",
+      "Pinyin": "CHIZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "重庆",
+      "Abbreviation": "CQ",
+      "Pinyin": "CHONGQING",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "崇左",
+      "Abbreviation": "CZ",
+      "Pinyin": "CHONGZUO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "楚雄",
+      "Abbreviation": "CX",
+      "Pinyin": "CHUXIONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "滁州",
+      "Abbreviation": "CZ",
+      "Pinyin": "CHUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "大理",
+      "Abbreviation": "DL",
+      "Pinyin": "DALI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "大连",
+      "Abbreviation": "DL",
+      "Pinyin": "DALIAN",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "丹东",
+      "Abbreviation": "DD",
+      "Pinyin": "DANDONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "儋州",
+      "Abbreviation": "DZ",
+      "Pinyin": "DANZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "大庆",
+      "Abbreviation": "DQ",
+      "Pinyin": "DAQING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "大同",
+      "Abbreviation": "DT",
+      "Pinyin": "DATONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "大兴安岭",
+      "Abbreviation": "DXAL",
+      "Pinyin": "DAXINGANLING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "达州",
+      "Abbreviation": "DZ",
+      "Pinyin": "DAZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "德宏",
+      "Abbreviation": "DH",
+      "Pinyin": "DEHONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "德阳",
+      "Abbreviation": "DY",
+      "Pinyin": "DEYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "德州",
+      "Abbreviation": "DZ",
+      "Pinyin": "DEZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "定安",
+      "Abbreviation": "DA",
+      "Pinyin": "DINGAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "定西",
+      "Abbreviation": "DX",
+      "Pinyin": "DINGXI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "迪庆",
+      "Abbreviation": "DQ",
+      "Pinyin": "DIQING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "东厂",
+      "Abbreviation": "DC",
+      "Pinyin": "DONGCHANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "东方",
+      "Abbreviation": "DF",
+      "Pinyin": "DONGFANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "东莞",
+      "Abbreviation": "DG",
+      "Pinyin": "DONGGUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "东营",
+      "Abbreviation": "DY",
+      "Pinyin": "DONGYING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "鄂尔多斯",
+      "Abbreviation": "EEDS",
+      "Pinyin": "EERDUOSI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "恩施",
+      "Abbreviation": "ES",
+      "Pinyin": "ENSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "鄂州",
+      "Abbreviation": "EZ",
+      "Pinyin": "EZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "防城港",
+      "Abbreviation": "FCG",
+      "Pinyin": "FANGCHENGGANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "地中海",
+      "Abbreviation": "FDFG",
+      "Pinyin": "FDGDHG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "佛山",
+      "Abbreviation": "FS",
+      "Pinyin": "FOSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "内门",
+      "Abbreviation": "FDS",
+      "Pinyin": "FUDIANSHU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "抚顺",
+      "Abbreviation": "FS",
+      "Pinyin": "FUSHUN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "阜新",
+      "Abbreviation": "FX",
+      "Pinyin": "FUXIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "阜阳",
+      "Abbreviation": "FY",
+      "Pinyin": "FUYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "福州",
+      "Abbreviation": "FZ",
+      "Pinyin": "FUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "抚州",
+      "Abbreviation": "FZ",
+      "Pinyin": "FUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "甘南",
+      "Abbreviation": "GN",
+      "Pinyin": "GANNAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "赣州",
+      "Abbreviation": "GZ",
+      "Pinyin": "GANZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "甘孜",
+      "Abbreviation": "GZ",
+      "Pinyin": "GANZI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "高雄市",
+      "Abbreviation": "GXS",
+      "Pinyin": "GAOXIONGSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "广安",
+      "Abbreviation": "GA",
+      "Pinyin": "GUANGAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "广元",
+      "Abbreviation": "GY",
+      "Pinyin": "GUANGYUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "广州",
+      "Abbreviation": "GZ",
+      "Pinyin": "GUANGZHOU",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "贵港",
+      "Abbreviation": "GG",
+      "Pinyin": "GUIGANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "桂林",
+      "Abbreviation": "GL",
+      "Pinyin": "GUILIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "贵阳",
+      "Abbreviation": "GY",
+      "Pinyin": "GUIYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "果洛",
+      "Abbreviation": "GL",
+      "Pinyin": "GUOLUO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "国外",
+      "Abbreviation": "GW",
+      "Pinyin": "GUOWAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "固原",
+      "Abbreviation": "GY",
+      "Pinyin": "GUYUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "哈尔滨",
+      "Abbreviation": "HEB",
+      "Pinyin": "HAERBIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "海北",
+      "Abbreviation": "HB",
+      "Pinyin": "HAIBEI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "海东",
+      "Abbreviation": "HD",
+      "Pinyin": "HAIDONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "嗨嗨",
+      "Abbreviation": "HH",
+      "Pinyin": "HAIHAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "海口",
+      "Abbreviation": "HK",
+      "Pinyin": "HAIKOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "海南藏族自治州",
+      "Abbreviation": "HNZZZZZ",
+      "Pinyin": "HAINANZANGZUZIZHIZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "海西",
+      "Abbreviation": "HX",
+      "Pinyin": "HAIXI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "哈密",
+      "Abbreviation": "HM",
+      "Pinyin": "HAMI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "邯郸",
+      "Abbreviation": "HD",
+      "Pinyin": "HANDAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "杭州",
+      "Abbreviation": "HZ",
+      "Pinyin": "HANGZHOU",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "汉中",
+      "Abbreviation": "HZ",
+      "Pinyin": "HANZHONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "鹤壁",
+      "Abbreviation": "HB",
+      "Pinyin": "HEBI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "河池",
+      "Abbreviation": "HC",
+      "Pinyin": "HECHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "合肥",
+      "Abbreviation": "HF",
+      "Pinyin": "HEFEI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "鹤岗",
+      "Abbreviation": "HG",
+      "Pinyin": "HEGANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "黑河",
+      "Abbreviation": "HH",
+      "Pinyin": "HEIHE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "铁岭",
+      "Abbreviation": "HLJ",
+      "Pinyin": "HEILONGJIANG",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "衡水",
+      "Abbreviation": "HS",
+      "Pinyin": "HENGSHUI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "衡阳",
+      "Abbreviation": "HY",
+      "Pinyin": "HENGYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "和田",
+      "Abbreviation": "HT",
+      "Pinyin": "HETIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "河源",
+      "Abbreviation": "HY",
+      "Pinyin": "HEYUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "菏泽",
+      "Abbreviation": "HZ",
+      "Pinyin": "HEZE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "贺州",
+      "Abbreviation": "HZ",
+      "Pinyin": "HEZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "红河",
+      "Abbreviation": "HH",
+      "Pinyin": "HONGHE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "淮安",
+      "Abbreviation": "HA",
+      "Pinyin": "HUAIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "淮北",
+      "Abbreviation": "HB",
+      "Pinyin": "HUAIBEI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "怀化",
+      "Abbreviation": "HH",
+      "Pinyin": "HUAIHUA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "淮南",
+      "Abbreviation": "HN",
+      "Pinyin": "HUAINAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "花莲县",
+      "Abbreviation": "HLX",
+      "Pinyin": "HUALIANXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "黄冈",
+      "Abbreviation": "HG",
+      "Pinyin": "HUANGGANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "黄南",
+      "Abbreviation": "HN",
+      "Pinyin": "HUANGNAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "黄山",
+      "Abbreviation": "HS",
+      "Pinyin": "HUANGSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "黄石",
+      "Abbreviation": "HS",
+      "Pinyin": "HUANGSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "呼和浩特",
+      "Abbreviation": "HHHT",
+      "Pinyin": "HUHEHAOTE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "惠州",
+      "Abbreviation": "HZ",
+      "Pinyin": "HUIZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "葫芦岛",
+      "Abbreviation": "HLD",
+      "Pinyin": "HULUDAO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "呼伦贝尔",
+      "Abbreviation": "HLBE",
+      "Pinyin": "HULUNBEIER",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "湖州",
+      "Abbreviation": "HZ",
+      "Pinyin": "HUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "佳木斯",
+      "Abbreviation": "JMS",
+      "Pinyin": "JIAMUSI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "吉安",
+      "Abbreviation": "JA",
+      "Pinyin": "JIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "江门",
+      "Abbreviation": "JM",
+      "Pinyin": "JIANGMEN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "焦作",
+      "Abbreviation": "JZ",
+      "Pinyin": "JIAOZUO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "嘉兴",
+      "Abbreviation": "JX",
+      "Pinyin": "JIAXING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "嘉义",
+      "Abbreviation": "JY",
+      "Pinyin": "JIAYI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "嘉峪关",
+      "Abbreviation": "JYG",
+      "Pinyin": "JIAYUGUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "揭阳",
+      "Abbreviation": "JY",
+      "Pinyin": "JIEYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "吉林",
+      "Abbreviation": "JL",
+      "Pinyin": "JILIN",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "基隆市",
+      "Abbreviation": "JLS",
+      "Pinyin": "JILONGSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "济南",
+      "Abbreviation": "JN",
+      "Pinyin": "JINAN",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "金昌",
+      "Abbreviation": "JC",
+      "Pinyin": "JINCHANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "晋城",
+      "Abbreviation": "JC",
+      "Pinyin": "JINCHENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "景德镇",
+      "Abbreviation": "JDZ",
+      "Pinyin": "JINGDEZHEN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "荆门",
+      "Abbreviation": "JM",
+      "Pinyin": "JINGMEN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "荆州",
+      "Abbreviation": "JZ",
+      "Pinyin": "JINGZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "金华",
+      "Abbreviation": "JH",
+      "Pinyin": "JINHUA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "济宁",
+      "Abbreviation": "JN",
+      "Pinyin": "JINING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "金门县",
+      "Abbreviation": "JMX",
+      "Pinyin": "JINMENXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "晋中",
+      "Abbreviation": "JZ",
+      "Pinyin": "JINZHONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "锦州",
+      "Abbreviation": "JZ",
+      "Pinyin": "JINZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "九江",
+      "Abbreviation": "JJ",
+      "Pinyin": "JIUJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "酒泉",
+      "Abbreviation": "JQ",
+      "Pinyin": "JIUQUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "鸡西",
+      "Abbreviation": "JX",
+      "Pinyin": "JIXI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "济源",
+      "Abbreviation": "JY",
+      "Pinyin": "JIYUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "开封",
+      "Abbreviation": "KF",
+      "Pinyin": "KAIFENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "喀什",
+      "Abbreviation": "KS",
+      "Pinyin": "KASHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "可克达拉",
+      "Abbreviation": "KKDL",
+      "Pinyin": "KEKEDALA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "克拉玛依",
+      "Abbreviation": "KLMY",
+      "Pinyin": "KELAMAYI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "克孜勒苏柯尔克孜",
+      "Abbreviation": "KZLSKEKZ",
+      "Pinyin": "KEZILESUKEERKEZI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "昆明",
+      "Abbreviation": "KM",
+      "Pinyin": "KUNMING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "昆玉市",
+      "Abbreviation": "KYS",
+      "Pinyin": "KUNYUSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "来宾",
+      "Abbreviation": "LB",
+      "Pinyin": "LAIBIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "莱芜",
+      "Abbreviation": "LW",
+      "Pinyin": "LAIWU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "廊坊",
+      "Abbreviation": "LF",
+      "Pinyin": "LANGFANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "兰州",
+      "Abbreviation": "LZ",
+      "Pinyin": "LANZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "拉萨",
+      "Abbreviation": "LS",
+      "Pinyin": "LASA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "乐东",
+      "Abbreviation": "LD",
+      "Pinyin": "LEDONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "乐山",
+      "Abbreviation": "LS",
+      "Pinyin": "LESHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "凉山",
+      "Abbreviation": "LS",
+      "Pinyin": "LIANGSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "连云港",
+      "Abbreviation": "LYG",
+      "Pinyin": "LIANYUNGANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "聊城",
+      "Abbreviation": "LC",
+      "Pinyin": "LIAOCHENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "辽阳",
+      "Abbreviation": "LY",
+      "Pinyin": "LIAOYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "辽源",
+      "Abbreviation": "LY",
+      "Pinyin": "LIAOYUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "丽江",
+      "Abbreviation": "LJ",
+      "Pinyin": "LIJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "临沧",
+      "Abbreviation": "LC",
+      "Pinyin": "LINCANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "临汾",
+      "Abbreviation": "LF",
+      "Pinyin": "LINFEN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "临高",
+      "Abbreviation": "LG",
+      "Pinyin": "LINGAO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "陵水",
+      "Abbreviation": "LS",
+      "Pinyin": "LINGSHUI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "临夏",
+      "Abbreviation": "LX",
+      "Pinyin": "LINXIA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "临沂",
+      "Abbreviation": "LY",
+      "Pinyin": "LINYI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "林芝",
+      "Abbreviation": "LZ",
+      "Pinyin": "LINZHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "丽水",
+      "Abbreviation": "LS",
+      "Pinyin": "LISHUI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "六盘水",
+      "Abbreviation": "LPS",
+      "Pinyin": "LIUPANSHUI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "柳州",
+      "Abbreviation": "LZ",
+      "Pinyin": "LIUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "陇南",
+      "Abbreviation": "LN",
+      "Pinyin": "LONGNAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "龙岩",
+      "Abbreviation": "LY",
+      "Pinyin": "LONGYAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "娄底",
+      "Abbreviation": "LD",
+      "Pinyin": "LOUDI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "六安",
+      "Abbreviation": "LA",
+      "Pinyin": "LUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "吕梁",
+      "Abbreviation": "LL",
+      "Pinyin": "LULIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "漯河",
+      "Abbreviation": "LH",
+      "Pinyin": "LUOHE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "洛阳",
+      "Abbreviation": "LY",
+      "Pinyin": "LUOYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "泸州",
+      "Abbreviation": "LZ",
+      "Pinyin": "LUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "马鞍山",
+      "Abbreviation": "MAS",
+      "Pinyin": "MAANSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "茂名",
+      "Abbreviation": "MM",
+      "Pinyin": "MAOMING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "马祖",
+      "Abbreviation": "MZ",
+      "Pinyin": "MAZU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "眉山",
+      "Abbreviation": "MS",
+      "Pinyin": "MEISHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "梅州",
+      "Abbreviation": "MZ",
+      "Pinyin": "MEIZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "绵阳",
+      "Abbreviation": "MY",
+      "Pinyin": "MIANYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "苗栗县",
+      "Abbreviation": "MLX",
+      "Pinyin": "MIAOLIXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "牡丹江",
+      "Abbreviation": "MDJ",
+      "Pinyin": "MUDANJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "南昌",
+      "Abbreviation": "NC",
+      "Pinyin": "NANCHANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "南充",
+      "Abbreviation": "NC",
+      "Pinyin": "NANCHONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "南京",
+      "Abbreviation": "NJ",
+      "Pinyin": "NANJING",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "南宁",
+      "Abbreviation": "NN",
+      "Pinyin": "NANNING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "南平",
+      "Abbreviation": "NP",
+      "Pinyin": "NANPING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "南沙",
+      "Abbreviation": "NS",
+      "Pinyin": "NANSHA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "南通",
+      "Abbreviation": "NT",
+      "Pinyin": "NANTONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "南投县",
+      "Abbreviation": "NTX",
+      "Pinyin": "NANTOUXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "南阳",
+      "Abbreviation": "NY",
+      "Pinyin": "NANYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "那曲",
+      "Abbreviation": "NQ",
+      "Pinyin": "NAQU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "内江",
+      "Abbreviation": "NJ",
+      "Pinyin": "NEIJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宁波",
+      "Abbreviation": "NB",
+      "Pinyin": "NINGBO",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "宁德",
+      "Abbreviation": "ND",
+      "Pinyin": "NINGDE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "怒江",
+      "Abbreviation": "NJ",
+      "Pinyin": "NUJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "盘锦",
+      "Abbreviation": "PJ",
+      "Pinyin": "PANJIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "攀枝花",
+      "Abbreviation": "PZH",
+      "Pinyin": "PANZHIHUA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "澎湖县",
+      "Abbreviation": "PHX",
+      "Pinyin": "PENGHUXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "平顶山",
+      "Abbreviation": "PDS",
+      "Pinyin": "PINGDINGSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "屏东县",
+      "Abbreviation": "PDX",
+      "Pinyin": "PINGDONGXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "平凉",
+      "Abbreviation": "PL",
+      "Pinyin": "PINGLIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "萍乡",
+      "Abbreviation": "PX",
+      "Pinyin": "PINGXIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "普洱",
+      "Abbreviation": "PE",
+      "Pinyin": "PUER",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "莆田",
+      "Abbreviation": "PT",
+      "Pinyin": "PUTIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "濮阳",
+      "Abbreviation": "PY",
+      "Pinyin": "PUYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "黔东南",
+      "Abbreviation": "QDN",
+      "Pinyin": "QIANDONGNAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "黔南",
+      "Abbreviation": "QN",
+      "Pinyin": "QIANNAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "黔西南",
+      "Abbreviation": "QXN",
+      "Pinyin": "QIANXINAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "青岛",
+      "Abbreviation": "QD",
+      "Pinyin": "QINGDAO",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "青海湖",
+      "Abbreviation": "QHH",
+      "Pinyin": "QINGHAIHU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "庆阳",
+      "Abbreviation": "QY",
+      "Pinyin": "QINGYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "清远",
+      "Abbreviation": "QY",
+      "Pinyin": "QINGYUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "秦皇岛",
+      "Abbreviation": "QHD",
+      "Pinyin": "QINHUANGDAO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "钦州",
+      "Abbreviation": "QZ",
+      "Pinyin": "QINZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "琼海",
+      "Abbreviation": "QH",
+      "Pinyin": "QIONGHAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "琼中",
+      "Abbreviation": "QZ",
+      "Pinyin": "QIONGZHONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "齐齐哈尔",
+      "Abbreviation": "QQHE",
+      "Pinyin": "QIQIHAER",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "七台河",
+      "Abbreviation": "QTH",
+      "Pinyin": "QITAIHE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "泉州",
+      "Abbreviation": "QZ",
+      "Pinyin": "QUANZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "曲靖",
+      "Abbreviation": "QJ",
+      "Pinyin": "QUJING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "衢州",
+      "Abbreviation": "QZ",
+      "Pinyin": "QUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "日喀则",
+      "Abbreviation": "RKZ",
+      "Pinyin": "RIKAZE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "日照",
+      "Abbreviation": "RZ",
+      "Pinyin": "RIZHAO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "三门峡",
+      "Abbreviation": "SMX",
+      "Pinyin": "SANMENXIA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "三明",
+      "Abbreviation": "SM",
+      "Pinyin": "SANMING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "三沙",
+      "Abbreviation": "SS",
+      "Pinyin": "SANSHA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "三亚",
+      "Abbreviation": "SY",
+      "Pinyin": "SANYA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "三亚",
+      "Abbreviation": "SY",
+      "Pinyin": "SANYA",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "上海",
+      "Abbreviation": "SH",
+      "Pinyin": "SHANGHAI",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "商洛",
+      "Abbreviation": "SL",
+      "Pinyin": "SHANGLUO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "商丘",
+      "Abbreviation": "SQ",
+      "Pinyin": "SHANGQIU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "上饶",
+      "Abbreviation": "SR",
+      "Pinyin": "SHANGRAO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "山南",
+      "Abbreviation": "SN",
+      "Pinyin": "SHANNAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "汕头",
+      "Abbreviation": "ST",
+      "Pinyin": "SHANTOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "汕尾",
+      "Abbreviation": "SW",
+      "Pinyin": "SHANWEI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "韶关",
+      "Abbreviation": "SG",
+      "Pinyin": "SHAOGUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "绍兴",
+      "Abbreviation": "SX",
+      "Pinyin": "SHAOXING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "邵阳",
+      "Abbreviation": "SY",
+      "Pinyin": "SHAOYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "神农架",
+      "Abbreviation": "SNJ",
+      "Pinyin": "SHENNONGJIA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "沈阳",
+      "Abbreviation": "SY",
+      "Pinyin": "SHENYANG",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "深圳",
+      "Abbreviation": "SZ",
+      "Pinyin": "SHENZHEN",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "石河子",
+      "Abbreviation": "SHZ",
+      "Pinyin": "SHIHEZI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "石家庄",
+      "Abbreviation": "SJZ",
+      "Pinyin": "SHIJIAZHUANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "十堰",
+      "Abbreviation": "SY",
+      "Pinyin": "SHIYAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "石嘴山",
+      "Abbreviation": "SZS",
+      "Pinyin": "SHIZUISHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "双河市",
+      "Abbreviation": "SHS",
+      "Pinyin": "SHUANGHESHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "双鸭山",
+      "Abbreviation": "SYS",
+      "Pinyin": "SHUANGYASHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "朔州",
+      "Abbreviation": "SZ",
+      "Pinyin": "SHUOZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "斯丹利 香港",
+      "Abbreviation": "SDLXG",
+      "Pinyin": "SIDANLIXIANGGANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "四平",
+      "Abbreviation": "SP",
+      "Pinyin": "SIPING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "松原",
+      "Abbreviation": "SY",
+      "Pinyin": "SONGYUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "绥化",
+      "Abbreviation": "SH",
+      "Pinyin": "SUIHUA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "遂宁",
+      "Abbreviation": "SN",
+      "Pinyin": "SUINING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "随州",
+      "Abbreviation": "SZ",
+      "Pinyin": "SUIZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宿迁",
+      "Abbreviation": "SQ",
+      "Pinyin": "SUQIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宿州",
+      "Abbreviation": "SZ",
+      "Pinyin": "SUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "苏州",
+      "Abbreviation": "SZ",
+      "Pinyin": "SUZHOU",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "塔城",
+      "Abbreviation": "TC",
+      "Pinyin": "TACHENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "泰安",
+      "Abbreviation": "TA",
+      "Pinyin": "TAIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "台北市",
+      "Abbreviation": "TBS",
+      "Pinyin": "TAIBEISHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "台东县",
+      "Abbreviation": "TDX",
+      "Pinyin": "TAIDONGXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "台南市",
+      "Abbreviation": "TNS",
+      "Pinyin": "TAINANSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "太原",
+      "Abbreviation": "TY",
+      "Pinyin": "TAIYUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "台中市",
+      "Abbreviation": "TZS",
+      "Pinyin": "TAIZHONGSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "泰州",
+      "Abbreviation": "TZ",
+      "Pinyin": "TAIZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "台州",
+      "Abbreviation": "TZ",
+      "Pinyin": "TAIZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "唐山",
+      "Abbreviation": "TS",
+      "Pinyin": "TANGSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "桃园县",
+      "Abbreviation": "TYX",
+      "Pinyin": "TAOYUANXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "天津",
+      "Abbreviation": "TJ",
+      "Pinyin": "TIANJIN",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "天门",
+      "Abbreviation": "TM",
+      "Pinyin": "TIANMEN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "天水",
+      "Abbreviation": "TS",
+      "Pinyin": "TIANSHUI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "铁岭",
+      "Abbreviation": "TL",
+      "Pinyin": "TIELING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "铁门关市",
+      "Abbreviation": "TMGS",
+      "Pinyin": "TIEMENGUANSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "铜川",
+      "Abbreviation": "TC",
+      "Pinyin": "TONGCHUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "通化",
+      "Abbreviation": "TH",
+      "Pinyin": "TONGHUA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "通辽",
+      "Abbreviation": "TL",
+      "Pinyin": "TONGLIAO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "铜陵",
+      "Abbreviation": "TL",
+      "Pinyin": "TONGLING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "铜仁",
+      "Abbreviation": "TR",
+      "Pinyin": "TONGREN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "吐鲁番",
+      "Abbreviation": "TLF",
+      "Pinyin": "TULUFAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "图木舒克",
+      "Abbreviation": "TMSK",
+      "Pinyin": "TUMUSHUKE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "屯昌",
+      "Abbreviation": "TC",
+      "Pinyin": "TUNCHANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "万宁",
+      "Abbreviation": "WN",
+      "Pinyin": "WANNING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "潍坊",
+      "Abbreviation": "WF",
+      "Pinyin": "WEIFANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "威海",
+      "Abbreviation": "WH",
+      "Pinyin": "WEIHAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "渭南",
+      "Abbreviation": "WN",
+      "Pinyin": "WEINAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "文昌",
+      "Abbreviation": "WC",
+      "Pinyin": "WENCHANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "文山",
+      "Abbreviation": "WS",
+      "Pinyin": "WENSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "温州",
+      "Abbreviation": "WZ",
+      "Pinyin": "WENZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "沃尔家",
+      "Abbreviation": "WEJ",
+      "Pinyin": "WOERJIA",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "乌海",
+      "Abbreviation": "WH",
+      "Pinyin": "WUHAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "芜湖",
+      "Abbreviation": "WH",
+      "Pinyin": "WUHU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "五家渠",
+      "Abbreviation": "WJQ",
+      "Pinyin": "WUJIAQU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "乌兰察布",
+      "Abbreviation": "WLCB",
+      "Pinyin": "WULANCHABU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "乌鲁木齐",
+      "Abbreviation": "WLMQ",
+      "Pinyin": "WULUMUQI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "武威",
+      "Abbreviation": "WW",
+      "Pinyin": "WUWEI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "无锡",
+      "Abbreviation": "WX",
+      "Pinyin": "WUXI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "五指山",
+      "Abbreviation": "WZS",
+      "Pinyin": "WUZHISHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "吴忠",
+      "Abbreviation": "WZ",
+      "Pinyin": "WUZHONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "梧州",
+      "Abbreviation": "WZ",
+      "Pinyin": "WUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "新城",
+      "Abbreviation": "XINCHENG",
+      "Pinyin": "XC",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "厦门",
+      "Abbreviation": "XM",
+      "Pinyin": "XIAMEN",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "西安",
+      "Abbreviation": "XA",
+      "Pinyin": "XIAN",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "襄阳",
+      "Abbreviation": "XF",
+      "Pinyin": "XIANGFAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "香港",
+      "Abbreviation": "XG",
+      "Pinyin": "XIANGGANG",
+      "IsHot": true,
+      "Level": 1
+    }, {
+      
+      "Name": "湘潭",
+      "Abbreviation": "XT",
+      "Pinyin": "XIANGTAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "湘西",
+      "Abbreviation": "XX",
+      "Pinyin": "XIANGXI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "咸宁",
+      "Abbreviation": "XN",
+      "Pinyin": "XIANNING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "仙桃",
+      "Abbreviation": "XT",
+      "Pinyin": "XIANTAO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "咸阳",
+      "Abbreviation": "XY",
+      "Pinyin": "XIANYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "孝感",
+      "Abbreviation": "XG",
+      "Pinyin": "XIAOGAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "锡林郭勒盟",
+      "Abbreviation": "XLGLM",
+      "Pinyin": "XILINGUOLEMENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "新北市",
+      "Abbreviation": "XBS",
+      "Pinyin": "XINBEISHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "新城",
+      "Abbreviation": "XC",
+      "Pinyin": "XINCHENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "兴安盟",
+      "Abbreviation": "XAM",
+      "Pinyin": "XINGANMENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "邢台",
+      "Abbreviation": "XT",
+      "Pinyin": "XINGTAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "西宁",
+      "Abbreviation": "XN",
+      "Pinyin": "XINING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "新乡",
+      "Abbreviation": "XX",
+      "Pinyin": "XINXIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "信阳",
+      "Abbreviation": "XY",
+      "Pinyin": "XINYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "新余",
+      "Abbreviation": "XY",
+      "Pinyin": "XINYU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "忻州",
+      "Abbreviation": "XZ",
+      "Pinyin": "XINZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "新竹市",
+      "Abbreviation": "XZS",
+      "Pinyin": "XINZHUSHI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "新竹县",
+      "Abbreviation": "XZX",
+      "Pinyin": "XINZHUXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "西沙",
+      "Abbreviation": "XS",
+      "Pinyin": "XISHA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "西双版纳",
+      "Abbreviation": "XSBN",
+      "Pinyin": "XISHUANGBANNA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宣城",
+      "Abbreviation": "XC",
+      "Pinyin": "XUANCHENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "许昌",
+      "Abbreviation": "XC",
+      "Pinyin": "XUCHANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "徐州",
+      "Abbreviation": "XZ",
+      "Pinyin": "XUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "雅安",
+      "Abbreviation": "YA",
+      "Pinyin": "YAAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "延安",
+      "Abbreviation": "YA",
+      "Pinyin": "YANAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "延边",
+      "Abbreviation": "YB",
+      "Pinyin": "YANBIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "盐城",
+      "Abbreviation": "YC",
+      "Pinyin": "YANCHENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "阳江",
+      "Abbreviation": "YJ",
+      "Pinyin": "YANGJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "阳泉",
+      "Abbreviation": "YQ",
+      "Pinyin": "YANGQUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "扬州",
+      "Abbreviation": "YZ",
+      "Pinyin": "YANGZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "烟台",
+      "Abbreviation": "YT",
+      "Pinyin": "YANTAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宜宾",
+      "Abbreviation": "YB",
+      "Pinyin": "YIBIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宜昌",
+      "Abbreviation": "YC",
+      "Pinyin": "YICHANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "伊春",
+      "Abbreviation": "YC",
+      "Pinyin": "YICHUN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宜春",
+      "Abbreviation": "YC",
+      "Pinyin": "YICHUN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "宜兰县",
+      "Abbreviation": "YLX",
+      "Pinyin": "YILANXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "伊犁",
+      "Abbreviation": "YL",
+      "Pinyin": "YILI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "银川",
+      "Abbreviation": "YC",
+      "Pinyin": "YINCHUAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "营口",
+      "Abbreviation": "YK",
+      "Pinyin": "YINGKOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "鹰潭",
+      "Abbreviation": "YT",
+      "Pinyin": "YINGTAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "益阳",
+      "Abbreviation": "YY",
+      "Pinyin": "YIYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "永州",
+      "Abbreviation": "YZ",
+      "Pinyin": "YONGZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "岳阳",
+      "Abbreviation": "YY",
+      "Pinyin": "YUEYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "榆林",
+      "Abbreviation": "YL",
+      "Pinyin": "YULIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "玉林",
+      "Abbreviation": "YL",
+      "Pinyin": "YULIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "运城",
+      "Abbreviation": "YC",
+      "Pinyin": "YUNCHENG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "云浮",
+      "Abbreviation": "YF",
+      "Pinyin": "YUNFU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "云林县",
+      "Abbreviation": "YLX",
+      "Pinyin": "YUNLINXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "玉树",
+      "Abbreviation": "YS",
+      "Pinyin": "YUSHU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "玉溪",
+      "Abbreviation": "YX",
+      "Pinyin": "YUXI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "枣庄",
+      "Abbreviation": "ZZ",
+      "Pinyin": "ZAOZHUANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "彰化县",
+      "Abbreviation": "ZHX",
+      "Pinyin": "ZHANGHUAXIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "张家界",
+      "Abbreviation": "ZJJ",
+      "Pinyin": "ZHANGJIAJIE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "张家口",
+      "Abbreviation": "ZJK",
+      "Pinyin": "ZHANGJIAKOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "张掖",
+      "Abbreviation": "ZY",
+      "Pinyin": "ZHANGYE",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "漳州",
+      "Abbreviation": "ZZ",
+      "Pinyin": "ZHANGZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "湛江",
+      "Abbreviation": "ZJ",
+      "Pinyin": "ZHANJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "肇庆",
+      "Abbreviation": "ZQ",
+      "Pinyin": "ZHAOQING",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "昭通",
+      "Abbreviation": "ZT",
+      "Pinyin": "ZHAOTONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "郑州",
+      "Abbreviation": "ZZ",
+      "Pinyin": "ZHENGZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "镇江",
+      "Abbreviation": "ZJ",
+      "Pinyin": "ZHENJIANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "中沙",
+      "Abbreviation": "ZS",
+      "Pinyin": "ZHONGSHA",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "中山",
+      "Abbreviation": "ZS",
+      "Pinyin": "ZHONGSHAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "中卫",
+      "Abbreviation": "ZW",
+      "Pinyin": "ZHONGWEI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "周口",
+      "Abbreviation": "ZK",
+      "Pinyin": "ZHOUKOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "珠海",
+      "Abbreviation": "ZH",
+      "Pinyin": "ZHUHAI",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "竹子清",
+      "Abbreviation": "ZL",
+      "Pinyin": "ZHULIN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "驻马店",
+      "Abbreviation": "ZMD",
+      "Pinyin": "ZHUMADIAN",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "株洲",
+      "Abbreviation": "ZZ",
+      "Pinyin": "ZHUZHOU",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "淄博",
+      "Abbreviation": "ZB",
+      "Pinyin": "ZIBO",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "自贡",
+      "Abbreviation": "ZG",
+      "Pinyin": "ZIGONG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "资阳",
+      "Abbreviation": "ZY",
+      "Pinyin": "ZIYANG",
+      "IsHot": false,
+      "Level": 1
+    }, {
+      
+      "Name": "遵义",
+      "Abbreviation": "ZY",
+      "Pinyin": "ZUNYI",
+      "IsHot": false,
+      "Level": 1
+    }]
 }
