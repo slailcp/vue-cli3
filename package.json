@@ -52,7 +52,7 @@
     "friendly-errors-webpack-plugin": "^1.7.0",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
-    "node-sass": "^4.9.2",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.0.3",
     "ts-import-plugin": "^1.6.6",
     "typescript": "~3.8.3",
